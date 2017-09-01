@@ -30,7 +30,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #
 #     c. What is the default height of a RoseWindow?
 #        (Type the code shown in your answer above within main to see if PyCharm will help you figure out the answer.
-#         Hint: After you type the line of code, put your cursor within the () area and PyCharm has a popup.)
+#         Hint: After you type the ( in the line of code, if you wait a moment PyCharm will add the ) and has a popup.)
 #            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
 #     d. Write a line of code that construct a RoseWindow object whose height is 100 with any width you choose.
