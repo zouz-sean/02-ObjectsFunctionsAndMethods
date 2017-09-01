@@ -14,7 +14,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #   directory as a "Sources Root".  Do that by right clicking on the src folder,
 #   then selector  Mark Directory As --> Sources Root
 #
-#   Example the import lines below and watch the red underlines disappear as you do that step.
+#   Expand the import lines below and watch the red underlines disappear as you do that step.
 #   You will do that once for every project that uses rosegraphics so get used to it. :)
 #
 #   Then run this module and look for more TO DO's later in the file.

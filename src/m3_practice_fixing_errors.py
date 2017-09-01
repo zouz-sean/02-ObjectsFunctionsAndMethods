@@ -16,13 +16,13 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #   Then fix the errors, one by one.
 #     -- Fixing one error may bring up additional errors
 #          (after a few seconds or when you run or save the module).
-#     -- Each time, fix the ERROR that is currrently nearest the TOP of the module.
+#     -- Each time, fix the ERROR that is currently nearest the TOP of the module.
 #     -- Often the SOURCE of the error can be on the line just BEFORE
 #          the line with a red underline.
 #     -- New errors may appear when you RUN the module.
 #
 #    Finish by RUNNING the corrected program and making sure that it RUNS CORRECTLY.
-#    That is, make sure that (per the green doc-strings) the program
+#    That is, make sure that (per the doc-strings) the program
 #    prints some calculated values and makes a Turtle do some things.
 #
 #  When complete Commit and Push your work (as always).

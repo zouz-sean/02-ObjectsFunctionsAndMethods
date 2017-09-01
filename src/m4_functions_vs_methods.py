@@ -235,7 +235,7 @@ def try_methods_and_functions():
     # TODO: 5. Implement this function, per its doc-string above.
     #    Put a statement in   main   to test this function
     #    (by calling this function).  IMPORTANT, IMPORTANT, IMPORTANT:
-    #    Keep reading the rest of this TODO before doing the above!
+    #    Keep reading the rest of this TO DO before doing the above!
     #
     # IMPORTANT: This function should ** CALL ** the
     #   draw_many_squares
