@@ -1,8 +1,10 @@
-########################################################################
+###############################################################################
 #
-# Run this module and review the code to see if you can trace the flow of program execution
+# Read the code below. Trace (by hand) the execution of the code,
+# predicting what will get printed.  Then run the code
+# and compare your prediction to what actually was printed.
 #
-########################################################################
+###############################################################################
 
 
 def main():
