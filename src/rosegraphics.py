@@ -1713,6 +1713,9 @@ class TurtleWindow(object):
         turtle.Turtle._screen = self._screen
 
     def close_on_mouse_click(self):
+        message = 'To exit, click anywhere in this window'
+        self._screen._canvas.create_text(0, 280, text=message)
+
         self._screen.exitonclick()
 
         # We may need the statement:
@@ -1725,7 +1728,7 @@ class TurtleWindow(object):
         # (something flashed) but nothing worse.  At time time
         # it is commented-out, since we need only a single TurtleWindow.
 
-#         turtle.TurtleScreen._RUNNING = True
+        # turtle.TurtleScreen._RUNNING = True
 
     def delay(self, milliseconds=None):
         self._screen.delay(milliseconds)
