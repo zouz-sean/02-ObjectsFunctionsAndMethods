@@ -5,13 +5,14 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
          their colleagues and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
-########################################################################
+###############################################################################
+#
 # TODO: 2.
 #   Locate the syntax (notation) errors in this file
 #   by looking for red underlines.
 #
 #   For each error, try to make sense of its message.
-#     -- Hover or expand as needed -- make sure you see the message!
+#     -- Hover and/or expand as needed -- make sure you see the message!
 #
 #   Then fix the errors, one by one.
 #     -- Fixing one error may bring up additional errors
@@ -27,10 +28,9 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #
 #  When complete Commit and Push your work (as always).
 #
-########################################################################
+###############################################################################
 
 import rosegraphics as rg
-import math
 
 
 def main():
